@@ -3,7 +3,8 @@ Mechanical
 Electronic and communication
 Computer Science
 
-
+Physics
+Chemistry
 
 Aerospace
 Civil
